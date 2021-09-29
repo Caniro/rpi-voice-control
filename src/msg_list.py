@@ -23,9 +23,27 @@ door_close_msg_list = (
 led_on_msg_list = (
     '전등 켜',
     '전등 켜줘',
+    'led 켜',
+    'led 켜줘',
+    '불 켜',
+    '불 켜줘',
 )
 
 led_off_msg_list = (
     '전등 꺼',
     '전등 꺼줘',
+    'led 꺼',
+    'led 꺼줘',
+    '불 꺼',
+    '불 꺼줘',
+)
+
+led_toggle_msg_list = (
+    '전등',
+    'led',
+)
+
+exit_msg_list = (
+    '종료',
+    '프로그램 종료',
 )
